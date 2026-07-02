@@ -45,6 +45,21 @@
       "source_sha256": "f832ce92af14aa3e41800a5a0d135c0bea22dd917244c0831927a33a5e738adb",
       "min_sdk_version": 23,
       "category": "Games"
+    },
+    {
+      "id": "abcd1237"
+      "package_name": "com.dti.tmobile"
+      "name": "TMobile Ignite",
+      "version_name": "23.2.28-1480",
+      "version_code": 230020280,
+      "description": "Ignite is Digital Turbine's on-device app delivery service.",
+      "icon_url": "https://raw.githubusercontent.com/frazieje/appupdater/main/image/tmo_icon.png",
+      "download_url": "https://spoohapps.com/Ignite-tMobileIgniteAgent_23.2.28-1480_release.apks", 
+      "binary_type": "APKS",
+      "file_size_bytes": 6060284,
+      "checksum_sha256": "714991bb80b84419b0b9d39da70dd150aebe8ae15eeab9cf67c09abab3c70d2f",
+      "min_sdk_version": 29,
+      "category": "Tools"
     }
   ]
 }
