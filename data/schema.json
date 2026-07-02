@@ -74,7 +74,13 @@
       "file_size_bytes": 80165,
       "checksum_sha256": "0a7c003389681022be8a204f364bdc221b916b00152e2999fa5084b80dee07c1",
       "min_sdk_version": 29,
-      "category": "Tools"
+      "category": "Tools",
+      "apks": [
+        {
+          "split_name": "singleTap",
+          "revision_code": 2
+        }
+      ]
     }
   ]
 }
