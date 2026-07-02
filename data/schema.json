@@ -71,8 +71,8 @@
       "icon_url": "https://raw.githubusercontent.com/frazieje/appupdater/main/image/branded_icon.png",
       "download_url": "https://spoohapps.com/Ignite-tmobile-singletap-rev2.apks", 
       "binary_type": "APKS",
-      "file_size_bytes": 80165,
-      "checksum_sha256": "0a7c003389681022be8a204f364bdc221b916b00152e2999fa5084b80dee07c1",
+      "file_size_bytes": 80499,
+      "checksum_sha256": "9db507b12d52868b6cba083806d543dc2fa70ce4c59d7be9b363dbd69caed3d6",
       "min_sdk_version": 29,
       "category": "Tools",
       "apks": [
