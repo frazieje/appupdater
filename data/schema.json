@@ -53,11 +53,26 @@
       "version_name": "23.2.28-1480",
       "version_code": 230020280,
       "description": "Ignite is Digital Turbine's on-device app delivery service.",
-      "icon_url": "https://raw.githubusercontent.com/frazieje/appupdater/main/image/tmo_icon.png",
+      "icon_url": "https://raw.githubusercontent.com/frazieje/appupdater/main/image/branded_icon.png",
       "download_url": "https://spoohapps.com/Ignite-tMobileIgniteAgent_23.2.28-1480_release.apks", 
       "binary_type": "APKS",
       "file_size_bytes": 6060284,
       "checksum_sha256": "714991bb80b84419b0b9d39da70dd150aebe8ae15eeab9cf67c09abab3c70d2f",
+      "min_sdk_version": 29,
+      "category": "Tools"
+    },
+    {
+      "id": "abcd1238"
+      "package_name": "com.dti.tmobile"
+      "name": "TMobile Ignite",
+      "version_name": "23.2.28-1480",
+      "version_code": 230020280,
+      "description": "Ignite is Digital Turbine's on-device app delivery service.",
+      "icon_url": "https://raw.githubusercontent.com/frazieje/appupdater/main/image/branded_icon.png",
+      "download_url": "https://spoohapps.com/Ignite-tmobile-singletap-rev2.apks", 
+      "binary_type": "APKS",
+      "file_size_bytes": 80165,
+      "checksum_sha256": "0a7c003389681022be8a204f364bdc221b916b00152e2999fa5084b80dee07c1",
       "min_sdk_version": 29,
       "category": "Tools"
     }
